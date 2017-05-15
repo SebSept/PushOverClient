@@ -18,7 +18,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "src": "SebSept\\PushOverClient\\"
+          "SebSept\\PushOverClient\\": "src/"
         }
     }
 }
