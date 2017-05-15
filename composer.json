@@ -1,0 +1,24 @@
+{
+    "name": "sebsept/pushoverclient",
+    "description": "php7 pushover api client consumer",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "^3.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SebSept",
+            "email": "sebastienmonterisi@yahoo.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "src": "SebSept\\PushOverClient\\"
+        }
+    }
+}

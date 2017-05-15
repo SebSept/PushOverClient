@@ -1,0 +1,5 @@
+suites:
+  base:
+    psr4_prefix: SebSept\PushOverClient
+    namespace: SebSept\PushOverClient
+    spec_prefix: spec
